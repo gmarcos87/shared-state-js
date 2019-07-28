@@ -1,3 +1,3 @@
 ## shared-state in JavaScript
 
-DOC: To do :)
+Example in https://github.com/gmarcos87/shared-state-js
