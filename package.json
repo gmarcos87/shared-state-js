@@ -1,0 +1,27 @@
+{
+  "name": "shared-state-js",
+  "version": "1.0.0",
+  "description": "LibreMesh shared-state in javascript",
+  "main": "shared-state.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "devDependencies": {
+    "jest": "^24.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gmarcos87/shared-state-js.git"
+  },
+  "keywords": [
+    "shared-state",
+    "libremesh",
+    "crdt"
+  ],
+  "author": "Marcos Gutierrez <gmarcos87@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gmarcos87/shared-state-js/issues"
+  },
+  "homepage": "https://github.com/gmarcos87/shared-state-js#readme"
+}
